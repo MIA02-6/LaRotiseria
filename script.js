@@ -1,4 +1,4 @@
-// Initialization
+// Initia
 document.addEventListener('DOMContentLoaded', () => {
   // Simple contact form handler (existing behavior)
   const contactForm = document.querySelector('#contacto form');

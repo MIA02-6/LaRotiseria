@@ -12,6 +12,11 @@ footer {background: #333;color: white;text-align: center;padding: 20px;}
 footer a {color: white;margin: 0 10px;font-size: 1.2rem;}
 footer a:hover {color: #f39c12;}
 
+body {
+  background: linear-gradient(to bottom, #ffffff, #ffe4c4);
+}
+
+
 /* Small tweaks for add-to-cart button */
 .add-to-cart {width: 100%}
 

@@ -7,7 +7,7 @@ body {font-family: 'Montserrat', sans-serif;margin-top: 70px;}
   color: white;display: flex;align-items: center;}
 .hero h1 {font-size: 3rem;font-weight: bold;}
 .hero p {font-size: 1.25rem;}
-.product-card img {height: 200px;object-fit: cover;}
+.product-card img {height: 350px;object-fit: cover;}
 footer {background: #333;color: white;text-align: center;padding: 20px;}
 footer a {color: white;margin: 0 10px;font-size: 1.2rem;}
 footer a:hover {color: #f39c12;}

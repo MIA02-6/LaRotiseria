@@ -2,7 +2,7 @@ body {font-family: 'Montserrat', sans-serif;margin-top: 70px;}
 .section-title {text-align: center;font-weight: 600;margin-bottom: 2rem;}
 .navbar {background-color: #f9d9b7;}
 .navbar .nav-link {color: #333 !important;margin-left: 15px;}
-.navbar .nav-link:hover {color: #f39c12 !important;}
+.navbar .nav-link:hover {color: #d7e6c8 !important;}
 .hero {height: 90vh;background: url('https://source.unsplash.com/1600x900/?rotisserie,food') center/cover no-repeat;
   color: white;display: flex;align-items: center;}
 .hero h1 {font-size: 3rem;font-weight: bold;}
